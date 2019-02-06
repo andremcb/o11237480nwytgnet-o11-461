@@ -1,0 +1,1 @@
+{"name": "my-awesome-project", "description": "This django application was built with Crowdbotics www.crowdbotics.com", "repository": "https://github.com/andremcb/o11237480nwytgnet-o11-461", "keywords": ["web", "django"], "env": {"DEBUG_COLLECTSTATIC": "1"}, "addons": ["heroku-postgresql:hobby-dev", "sendgrid:starter"], "scripts": {"postdeploy": "./postdeploy.sh"}}
